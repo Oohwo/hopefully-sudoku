@@ -11,7 +11,7 @@
 TBA
 
 ## Installation (Windows)
-4) The script uses BeautifulSoup4 to webscrape data from the internet. To install, type `py -m pip install bs4` 
+4) `py -m pip install bs4` (installs BeautifulSoup, used for webscraping)
 5) Run `hopefully_sudoku.py`
 
 You can also open this in your preferred coding IDE and run the file.
