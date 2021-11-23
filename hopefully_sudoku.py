@@ -41,9 +41,6 @@ class hopefully_sudoku:
       index_row += 1
     print(sudoku_puzzle)
 
-  def play(self):
-    print("play")
-
   def run(): # welcome prompt / "user interface" on the terminal
     print("Welcome to Sudoku!")
     test = hopefully_sudoku()
